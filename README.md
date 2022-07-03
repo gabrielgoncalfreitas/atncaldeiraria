@@ -10,4 +10,4 @@
   Facebook: facebook.com/gabriel.goncal.freitas <br>
 </p>
 
-<a href="https://gabrielgoncalfreitas.github.io/atncaldeiraria/">
+<p>View deploy: <a href="https://gabrielgoncalfreitas.github.io/atncaldeiraria/"></p>
